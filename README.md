@@ -44,4 +44,4 @@ ColumnScrollView(
 
 ## Preview
 
-![](https://i.imgur.com/jgttCop.png)
+![](https://i.imgur.com/6pusMn7.png)

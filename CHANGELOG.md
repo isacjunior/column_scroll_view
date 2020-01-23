@@ -14,3 +14,8 @@
 ## [1.0.1] - Preview.
 
 * Added example
+
+## [1.0.2] - Preview.
+
+* Incresead description
+* Changed emulator picture
