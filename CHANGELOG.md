@@ -1,8 +1,12 @@
-## [0.0.1] - TODO: Add release date.
+## [0.0.1] - Init project.
 
-* TODO: Describe initial release.
+* TODO: Initial project and tests.
 
-## [1.0.0] - TODO: Add release date.
+## [1.0.0] - Create widget.
 
 * Added analyzer
 * Improvement readme
+
+## [1.0.0+1] - Preview.
+
+* Insert preview image
