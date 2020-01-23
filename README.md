@@ -23,7 +23,7 @@ import 'package:column_scroll_view/column_scroll_view.dart';
 ```dart
 ColumnScrollView(
   child: Column(
-    mainAxisAlignment: MainAxisAlignment.spaceBetween,
+    mainAxisAlignment: MainAxisAlignment.spaceAround,
     children: <Widget>[
       Container(
         color: Color(0xff222222),
@@ -41,3 +41,7 @@ ColumnScrollView(
   ),
 )
 ```
+
+## Preview
+
+![](https://i.imgur.com/jgttCop.png)
