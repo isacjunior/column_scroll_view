@@ -10,3 +10,7 @@
 ## [1.0.0+1] - Preview.
 
 * Insert preview image
+
+## [1.0.1] - Preview.
+
+* Added example
