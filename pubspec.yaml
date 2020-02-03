@@ -1,8 +1,8 @@
 name: column_scroll_view
 description: A new Flutter package project. Do you need to use Column widget as a child of the SingleChildScrollView and that the column respects its properties?
-version: 1.0.2
+version: 1.0.3
 author: Isac Junior <isacasj91@gmail.com>
-homepage: https://github.com/isacjunior/lazy_loading_list
+homepage: https://github.com/isacjunior/column_scroll_view
 
 environment:
   sdk: ">=2.1.0 <3.0.0"

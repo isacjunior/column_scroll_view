@@ -7,15 +7,19 @@
 * Added analyzer
 * Improvement readme
 
-## [1.0.0+1] - Preview.
+## [1.0.0+1] - Update.
 
 * Insert preview image
 
-## [1.0.1] - Preview.
+## [1.0.1] - Update.
 
 * Added example
 
-## [1.0.2] - Preview.
+## [1.0.2] - Update.
 
 * Incresead description
 * Changed emulator picture
+
+## [1.0.3] - Update.
+
+* Change homepage
