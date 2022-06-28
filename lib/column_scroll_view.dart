@@ -16,17 +16,15 @@ import 'package:flutter/widgets.dart';
 /// {@end-tool}
 
 class ColumnScrollView extends StatelessWidget {
-  /// Create the a SingleChildScrollView that receive Column as child.
+  /// Create the a SingleChildScrollView that receive Widget as child.
   ColumnScrollView({
-    Key key,
-    @required this.child,
+    Key? key,
+    required this.child,
     this.flex = false,
-  })  : assert(flex != null),
-        assert(child != null),
-        super(key: key);
+  }) : super(key: key);
 
-  /// Widget child with the type [Column]
-  final Column child;
+  /// Widget child with the type [Widget]
+  final Widget child;
 
   /// The flex factor to use IntrinsicHeight or not. This Widget make possible
   /// to insert Flex widget inside another flex itens.
@@ -42,11 +40,7 @@ class ColumnScrollView extends StatelessWidget {
               minHeight: viewportConstraints.maxHeight,
             ),
             child: SafeArea(
-              child: flex
-                  ? IntrinsicHeight(
-                      child: child,
-                    )
-                  : child,
+              child: flex ? IntrinsicHeight(child: child) : child,
             ),
           ),
         );

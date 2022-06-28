@@ -1,9 +1,8 @@
+import 'package:column_scroll_view/column_scroll_view.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:column_scroll_view/column_scroll_view.dart';
-
-Widget makeTestableWidget({Widget child}) {
+Widget makeTestableWidget({Widget? child}) {
   return MaterialApp(
     home: Scaffold(
       body: child,
