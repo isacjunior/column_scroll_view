@@ -23,3 +23,8 @@
 ## [1.0.3] - Update.
 
 * Change homepage
+
+## [1.0.4] - What changes?
+
+* Null-safety support
+* Child instead of Column as child
