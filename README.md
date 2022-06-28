@@ -9,7 +9,7 @@ In the pubspec.yaml of your flutter project, add the following dependency:
 ```yaml
 dependencies:
   ...
-  column_scroll_view: ^1.0.0
+  column_scroll_view: ^1.0.4
 ```
 
 In your library add the following import:
